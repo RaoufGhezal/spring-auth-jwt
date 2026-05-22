@@ -1,4 +1,4 @@
-package com.example.server.util;
+package com.example.server.security;
 
 import java.util.Date;
 import java.util.HashMap;

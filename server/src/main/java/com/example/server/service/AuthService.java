@@ -14,7 +14,7 @@ import com.example.server.entity.Session;
 import com.example.server.entity.User;
 import com.example.server.repository.SessionRepository;
 import com.example.server.repository.UserRepository;
-import com.example.server.util.JwtUtil;
+import com.example.server.security.JwtUtil;
 
 import jakarta.servlet.http.Cookie;
 import jakarta.servlet.http.HttpServletRequest;
@@ -254,4 +254,3 @@ public class AuthService {
 
     }
 }
-
