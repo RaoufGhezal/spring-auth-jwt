@@ -71,6 +71,12 @@ gradle-app.setting
 
 # Spring Boot generated files
 spring.log
+application-local.properties
+
+# =========================
+# Uploads
+# =========================
+uploads/
 
 # =========================
 # PostgreSQL
